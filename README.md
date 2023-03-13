@@ -22,10 +22,10 @@ The ceremony takes place between _participants_ and the _sequencer_.  _Participa
 
 ## 10,000 ft Overview
 We are performing a ceremony to generate Powers of Tau for KZG proofs on Ethereum. The output of the ceremony consists of 4 (distinct) sets of Powers of Tau each with a different maximum power:
-1. $([\tau_1^0]_1, [\tau_1^1]_1, \dots, [\tau_1^{2^{12}-1}]_1])$, $([\tau_1^0]_2, [\tau_1^1]_2, \dots, [\tau_1^{64}]_2])$
-2. $([\tau_2^0]_1, [\tau_2^1]_1, \dots, [\tau_2^{2^{13}-1}]_1])$, $([\tau_2^0]_2, [\tau_2^1]_2, \dots, [\tau_2^{64}]_2])$
-3. $([\tau_3^0]_1, [\tau_3^1]_1, \dots, [\tau_3^{2^{14}-1}]_1])$, $([\tau_3^0]_2, [\tau_3^1]_2, \dots, [\tau_3^{64}]_2])$
-4. $([\tau_4^0]_1, [\tau_4^1]_1, \dots, [\tau_4^{2^{15}-1}]_1])$, $([\tau_4^0]_2, [\tau_4^1]_2, \dots, [\tau_4^{64}]_2])$
+1. $([\tau_1^0]_1, [\tau_1^1]_1, \dots, [\tau_1^{2^{12}-1}]_1])$, $([\tau_1^0]_2, [\tau_1^1]_2, \dots, [\tau_1^{64}]_2)$
+2. $([\tau_2^0]_1, [\tau_2^1]_1, \dots, [\tau_2^{2^{13}-1}]_1])$, $([\tau_2^0]_2, [\tau_2^1]_2, \dots, [\tau_2^{64}]_2)$
+3. $([\tau_3^0]_1, [\tau_3^1]_1, \dots, [\tau_3^{2^{14}-1}]_1])$, $([\tau_3^0]_2, [\tau_3^1]_2, \dots, [\tau_3^{64}]_2)$
+4. $([\tau_4^0]_1, [\tau_4^1]_1, \dots, [\tau_4^{2^{15}-1}]_1])$, $([\tau_4^0]_2, [\tau_4^1]_2, \dots, [\tau_4^{64}]_2)$
 
 ### BLS Cryptography
 
